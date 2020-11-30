@@ -1,16 +1,21 @@
-# **Assignment Title**  
+# **Submit This!**  
 
 ## **Assignment Description**  
-
+Turn in this assignment using the three git commands show in the video. You do not need to write any code for this assignment, just turn it in to show me you can.
 
 ## **Examples**  
->
+N/A
 
 ## **Limitations**  
+N/A
 
 ## **Hints**  
+git add .  
+git commit -m "Submit This! try 1"  
+git push
 
 ## **Concepts**  
+N/A  
 
 ---
 
