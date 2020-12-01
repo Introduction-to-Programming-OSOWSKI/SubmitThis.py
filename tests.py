@@ -8,11 +8,9 @@ import datetime;
 year = 2020
 month = 12
 day = 14
-hour = 3
-minute = 20
 
 def test_code():
     assert 0 < 1, "How did this even happen???"
 
 def test_late():
-    assert datetime.datetime.now() < datetime.datetime(year, month, day, hour + 6, minute), "Submitted Late"
+    assert datetime.datetime.now() < datetime.datetime(year, month, day + 1, 4, 0), "Submitted Late"
